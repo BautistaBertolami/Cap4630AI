@@ -1,2 +1,2 @@
 # Cap4630AI
-AI class
+AI class Spring 2020
